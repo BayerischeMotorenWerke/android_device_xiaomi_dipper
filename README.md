@@ -1,4 +1,4 @@
-Copyright (C) 2018 The LineageOS Project
+SPDX-FileCopyrightText: The LineageOS Project
 
 Device configuration for Xiaomi Mi 8
 =========================================
